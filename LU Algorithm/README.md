@@ -12,4 +12,4 @@ Outputs
     P - the pivot matrix
     
 ## Possible Improvements
-I actually don't know how to improve this one, it already seems pretty fire
+Initially this code asked for the A matrix as an input from the user, however that edit has been made
