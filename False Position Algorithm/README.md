@@ -1,5 +1,7 @@
 # falsePosition
-This algorithm uses the False Position Method to estimate the roots of a function
+This algorithm uses the False Position Method to estimate the roots of a function.
+The False Position method uses two initial guesses that bracket the root in order to make an estimate by drawing a line between them. The x-intercept of this line is the estimate of the root. The sign of the evaluation of the function at this guess determines which bracket point is replaced by this estimate for the next iteration such that there is always a sign difference between the bracketing points.
+This function asks the user to input a stopping criterion and the maximum number of iterations desired before the program stops running.
 
 Inputs
 
