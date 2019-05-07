@@ -12,4 +12,4 @@ Outputs
     P - the pivot matrix
     
 ## Possible Improvements
-1. The algorithm is a function so it should not ask the user to input the A matrix
+I actually don't know how to improve this one, it already seems pretty fire
