@@ -9,3 +9,6 @@ Inputs
 Outputs
 
     I - the integral
+
+## Possible Improvements
+1. The even interval values are off so that could be edited
