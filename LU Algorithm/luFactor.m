@@ -11,8 +11,6 @@
     
 function[L,U,P]=luFactor(A)
 
-A=input('Input your coefficient matrix ');
-
 x=nargin('luFactor');
 if x~=1
     error('One input is required')
