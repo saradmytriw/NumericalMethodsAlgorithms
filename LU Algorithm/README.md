@@ -1,5 +1,5 @@
 # luFactor
-The algorithm uses LU Decomposition to produce L and U matrices which can be used to solve a system of equations. It also makes use of partial pivoting as tracked by the P matrix.
+The algorithm uses LU Decomposition to produce L and U matrices which can be used to solve a system of equations. It also makes use of partial pivoting as tracked by the P matrix which is also output.
 
 Inputs
 
